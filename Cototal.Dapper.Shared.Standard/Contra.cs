@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Data;
 
-namespace Cototal.Dapper.Shared.N4
+namespace Cototal.Dapper.Shared.Standard
 {
     /// <summary>
     /// Combine connection and transaction for convenience

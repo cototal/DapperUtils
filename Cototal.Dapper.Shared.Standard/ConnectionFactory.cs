@@ -1,7 +1,7 @@
 ﻿using System.Data;
 using System.Data.SqlClient;
 
-namespace Cototal.Dapper.Shared.N4
+namespace Cototal.Dapper.Shared.Standard
 {
     /// <summary>
     /// Basic implementation of the connection factory. I believe being dependent on

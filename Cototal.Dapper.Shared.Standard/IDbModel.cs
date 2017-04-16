@@ -1,4 +1,4 @@
-﻿namespace Cototal.Dapper.Shared.N4
+﻿namespace Cototal.Dapper.Shared.Standard
 {
     /// <summary>
     /// Interface for any model with a primary key.

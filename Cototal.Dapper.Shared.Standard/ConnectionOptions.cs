@@ -1,6 +1,6 @@
 ﻿using System.Data;
 
-namespace Cototal.Dapper.Shared.N4
+namespace Cototal.Dapper.Shared.Standard
 {
     /// <summary>
     /// Used to consistently pass connection options between repositories

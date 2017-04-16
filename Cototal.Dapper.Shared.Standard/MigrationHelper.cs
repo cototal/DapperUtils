@@ -1,4 +1,4 @@
-﻿namespace Cototal.Dapper.Shared.N4
+﻿namespace Cototal.Dapper.Shared.Standard
 {
     /// <summary>
     /// DRY up some of the common database creation tasks. Specific to SQL Server
