@@ -1,0 +1,1 @@
+A collection of utilties used for Dapper / SQL Server projects.

@@ -1,5 +1,8 @@
 ﻿namespace Cototal.Dapper.Shared.N4
 {
+    /// <summary>
+    /// DRY up some of the common database creation tasks. Specific to SQL Server
+    /// </summary>
     public class MigrationHelper
     {
         public string CreateEnumTable(string tableName, params string[] fields)
